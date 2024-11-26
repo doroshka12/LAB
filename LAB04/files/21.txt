@@ -1,0 +1,10 @@
+/home/doroshkevich_ea/Desktop
+/home/doroshkevich_ea/.config/goa-1.0
+/home/doroshkevich_ea/.vscode/cli
+/home/doroshkevich_ea/.gnupg/private-keys-v1.d
+/home/doroshkevich_ea/Templates
+/home/doroshkevich_ea/.cache/obexd
+/home/doroshkevich_ea/Videos
+/home/doroshkevich_ea/.mozilla/extensions
+/home/doroshkevich_ea/Public
+/home/doroshkevich_ea/Music
